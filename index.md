@@ -1,6 +1,8 @@
 # RCO3012P
 Machine Learning Lab - Project
 
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-545454?&style=flat&logo=github&logoColor=ffffff&link=https://github.com/HumanshuDG/Machine_Learning_Lab-VJTI)](https://github.com/HumanshuDG/Machine_Learning_Lab-VJTI)
+
 # ***E-commerce Shopper's Behaviour Understanding***
 
 ## **Description**
