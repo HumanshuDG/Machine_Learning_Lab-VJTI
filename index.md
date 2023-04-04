@@ -12,6 +12,10 @@ The evaluation metric for this competition is [Mean F1-Score](https://en.wikiped
 ## Submission Format
 The file should contain a header and have the following format:
 
+| `id` | `Made_Purchase` |
+| :--: | :--------------: |
+|  1   |       False      |
+
 $$
     \begin{array}{c|c}
 		`id` & `Made\_Purchase` \\
