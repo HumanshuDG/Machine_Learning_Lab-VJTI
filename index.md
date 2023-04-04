@@ -13,15 +13,9 @@ The evaluation metric for this competition is [Mean F1-Score](https://en.wikiped
 The file should contain a header and have the following format:
 
 $$
-
-\begin{array}{c|c}
-
-`id` & `Made\_Purchase` \\
-
-\hline
-
-1 & False\\
-
-\end{array}
-
+    \begin{array}{c|c}
+		`id` & `Made\_Purchase` \\
+		\hline
+		1 & False\\
+    \end{array}
 $$
