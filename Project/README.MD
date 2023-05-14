@@ -20,8 +20,12 @@ The file should contain a header and have the following format:
 
 $$
     \begin{array}{c|c}
-		`id` & `Made\_Purchase` \\
+		id & Made\_Purchase \\
 		\hline
 		1 & False\\
     \end{array}
 $$
+
+---
+
+![Project Colab](https://colab.research.google.com/drive/1TJSZjormb2b0QWZHG6TtHZdkx5aQXD0y)
